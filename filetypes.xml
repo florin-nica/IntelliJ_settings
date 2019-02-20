@@ -7,6 +7,7 @@
       <mapping ext="controller" type="JavaScript" />
       <mapping ext="directive" type="JavaScript" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="JPA_mapping_model" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
