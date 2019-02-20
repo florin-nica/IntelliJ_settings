@@ -114,6 +114,10 @@
           <option name="url" value="https://github.com/florin-nica/spring5webapp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gogs.gbp.msg.team/MobileFactory/SafePark_Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Repos" />
