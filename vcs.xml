@@ -130,8 +130,12 @@
           <option name="url" value="https://github.com/Baeldung/spring-security-registration.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/florin-nica/android-project.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Repos\spring5" />
+    <option name="cloneParentDir" value="C:\Repos" />
   </component>
 </application>
