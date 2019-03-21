@@ -150,6 +150,10 @@
           <option name="url" value="http://10.16.26.2:3000" />
           <option name="userName" value="nicaf" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gogs.gbp.msg.team/MobileFactory/MA-App_Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Repos" />
